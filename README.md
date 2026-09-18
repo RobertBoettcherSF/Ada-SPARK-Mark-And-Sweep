@@ -1,2 +1,5 @@
 # Ada-SPARK-Mark-And-Sweep
-Bounded SPARK mark-and-sweep collector model
+
+A bounded SPARK mark-and-sweep collector model.
+
+Run \ for executable tests and \ for GNATprove level 2 with cvc5.
